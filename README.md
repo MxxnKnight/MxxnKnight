@@ -5,7 +5,7 @@
 - 📫 How to reach me - i don't know...
 
 # <h4> GET IN TOUCH <h4>
-<img src=https://i.imgur.com/6YkXw9s.jpeg>
+<a href="https://github.com/MxxnKnight"><img align="left" title="Insta" alt="Insta" width="30px" src="assets/insta.png" /></a>
 
 
 <!---
