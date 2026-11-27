@@ -1,14 +1,11 @@
-- 👋 Hi, I’m @MxxnKnight
-- 👀 I’m interested in sleeping😂...
-- 🌱 I’m currently learning nothing...
-- 💞️ I’m looking someone to collaborate on life ...
-- 📫 How to reach me - i don't know...
+<div align="center">
 
-# <h4> GET IN TOUCH <h4>
-<a href="https://github.com/MxxnKnight"><img align="left" title="Insta" alt="Insta" width="30px" src="assets/1679824012064.png.png" /></a>
+<img src="assets/moon-glow.svg" width="100%" alt="Moon Glow" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MxxnKnight/MxxnKnight/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MxxnKnight/MxxnKnight/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MxxnKnight/MxxnKnight/output/github-contribution-grid-snake.svg" />
+</picture>
 
-<!---
-MxxnKnight/MxxnKnight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
